@@ -1,0 +1,26 @@
+
+.container{
+  
+  width: 500px;
+  margin:20px auto;
+  background-color: rgb(72, 72, 237);
+ height: 600px;
+ position: relative;
+
+  
+}
+ 
+.todo{
+  background-color: rgb(123, 123, 240);
+  width: 400px;
+  height:50px;
+  text-align: center;
+  position: relative;
+  left: -130px;
+  
+}
+.text{
+  width:100px;
+  height: 90px;
+}
+
